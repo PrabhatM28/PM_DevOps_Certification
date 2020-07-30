@@ -1,1 +1,2 @@
-# PM_DevOps_Certification
+# devops-Project
+Certification Project for Edureka DevOps Course
